@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+*
+!.gitignore
+!earthquakes.py
+!readme.md
+
